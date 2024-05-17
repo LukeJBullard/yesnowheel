@@ -1,9 +1,10 @@
 # yesnowheel
-Launch yesnowheel.html or dist/yesnowheel.html on Android
+A yes or no wheel that allows input by a Turbine compatible system hosted by your local government.
 
 ## Install
-Requires jQuery 3.7.1 compatible. Update the script src in yesnowheel.html and dist/yesnowheel.html if you change it out from the one provided.
+Work in progress
 
-Requires [turbine.min.js](https://github.com/LukeJBullard/turbine-js)
+## Old HTML Version
+[https://github.com/LukeJBullard/yesnowheel/blob/v0.1.0/dist/yesnowheel.html](https://github.com/LukeJBullard/yesnowheel/blob/v0.1.0/dist/yesnowheel.html)
 
 License: MIT
